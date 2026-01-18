@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hola, soy Daniel Vargas 👋👨‍💻
 
-<!--
-**esdanielvargas/esdanielvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Desarrollador Web de **El Salvador** 🇸🇻 apasionado por construir experiencias digitales rápidas y modernas. Actualmente cursando el 4to año de Ingeniería en Sistemas y Computación.
 
-Here are some ideas to get you started:
+- 🔭 **Actualmente trabajando en:**
+  - **CloudBook:** Una red social personal construida con React y Firebase.
+  - **Mi Portafolio:** Web personal de alto rendimiento desarrollada con **Vite**.
+  - **Daniel Ospid Ecosystem:** Construyendo la plataforma completa de mi marca artística (Web Oficial & Smart-links) migrando a **Astro**, y prototipando un E-commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Aprendiendo:**
+  - Arquitecturas de Software avanzadas.
+  - Producción musical (mi lado creativo como *Daniel Ospid* 🎵).
+
+- ⚡ **Stack Tecnológico:**
+  - **Frontend:** React, Vite, HTML5, CSS3/SASS, TailwindCSS.
+  - **Tools:** Git, GitHub, VS Code, npm/pnpm.
+  - **Backend (BaaS):** Firebase, Supabase.
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+![Estadísticas de Daniel](https://github-readme-stats.vercel.app/api?username=esdanielvargas&show_icons=true&theme=tokyonight)
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=esdanielvargas&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Conecta conmigo
+
+- 💼 **Portafolio:** [danielvargas.dev](https://danielvargas.dev)
+- 🐦 **Twitter:** [@esdanielvargas](https://twitter.com/esdanielvargas)
