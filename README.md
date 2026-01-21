@@ -25,12 +25,16 @@
   <img src="https://img.shields.io/badge/vite-3d444d.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite" />
   <img src="https://img.shields.io/badge/Astro-3d444d.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" title="Astro" />
 
+<br>
+
   <img src="https://img.shields.io/badge/html5-3d444d.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-3d444d.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS3" title="CSS3" />
   <img src="https://img.shields.io/badge/SASS-3d444d.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" title="SASS" />
   <img src="https://img.shields.io/badge/tailwindcss-3d444d.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="TailwindCSS" />
   <img src="https://img.shields.io/badge/i18n-3d444d.svg?style=for-the-badge&logo=i18next&logoColor=white" alt="i18n" title="i18n" />
-  
+
+<br>
+
   <img src="https://img.shields.io/badge/Firebase-3d444d.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" title="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-3d444d.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" title="Supabase" />
   <img src="https://img.shields.io/badge/git-3d444d.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" />
@@ -51,7 +55,9 @@
   <a href="mailto:hello@danielvargas.dev">
     <img src="https://img.shields.io/badge/email-hello@danielvargas.dev-white.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3d444d" alt="Email" title="Email" />
   </a>
-  
+
+  <br>
+
   <a href="https://github.com/esdanielvargas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-3d444d.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" title="GitHub" />
   </a>
