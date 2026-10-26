@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md">🇺English</a> | <a href="README-es.md">Español</a> | <a href="README-fr.md">Français</a> | <a href="README-ca.md">Català</a>
+  <a href="README.md">English</a> | <a href="README-es.md">Español</a> | <a href="README-fr.md">Français</a> | <a href="README-ca.md">Català</a>
 </div>
 
 ## Salute, io es Daniel Vargas 👨‍💻
