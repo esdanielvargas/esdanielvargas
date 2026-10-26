@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README-es.md">Español</a> | <a href="README-fr.md">Français</a> | <a href="README-ca.md">Català</a> | <a href="README-ia.md">Interlingua</a>
+</div>
+
 ## Hi, I'm Daniel Vargas 👨‍💻
 
 I'm a Full Stack Web Developer from El Salvador. I'm currently a Systems Engineering student, though a big part of my background is self-taught, focusing on learning modern technologies on my own. I like building fast, responsive applications, paying close attention to detail, semantic code, and UI/UX design to keep everything clean and well-structured.
