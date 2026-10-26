@@ -1,74 +1,31 @@
-<h2>Hola, soy Daniel Vargas 👋👨‍💻</h2>
+## Hi, I'm Daniel Vargas 👨‍💻
 
-<p>
-  Soy un Desarrollador Web Full Stack de <b>El Salvador</b> con una obsesión por el detalle y el rendimiento.
-  Actualmente cursando el 5to año de Ingeniería en Sistemas y Computación, combino mi formación técnica con un enfoque práctico para crear
-  soluciones digitales que no solo funcionan rápido, sino que se sienten profesionales y escalables.
-</p>
+I'm a Full Stack Web Developer from El Salvador. I'm currently a Systems Engineering student, though a big part of my background is self-taught, focusing on learning modern technologies on my own. I like building fast, responsive applications, paying close attention to detail, semantic code, and UI/UX design to keep everything clean and well-structured.
 
-<div>
-  <img src="https://img.shields.io/github/followers/esdanielvargas?style=for-the-badge&logo=github&color=lightgray&labelColor=gray" alt="Followers" title="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=lightgray&labelColor=gray&label=Repos&query=public_repos&url=https://api.github.com/users/esdanielvargas" alt="Total Repos" title="Total Repos" />
-  <img src="https://img.shields.io/github/stars/esdanielvargas?style=for-the-badge&logo=github&color=lightgray&labelColor=gray" alt="Stars" title="Stars">
-</div>
+![Followers](https://img.shields.io/github/followers/esdanielvargas?style=for-the-badge&logo=github&color=2C3540&labelColor=212830) ![Total Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=2C3540&labelColor=212830&label=Repos&query=public_repos&url=https://api.github.com/users/esdanielvargas) ![Stars](https://img.shields.io/github/stars/esdanielvargas?style=for-the-badge&logo=github&color=2C3540&labelColor=212830)
 
-<h3>⚡ Stack Tecnológico</h3>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esdanielvargas&hide_border=true&background=212830&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)
 
-<p>Aquí están las herramientas con las que construyo mis ideas:</p>
+### ⚡ Tech Stack & Tools
 
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-gray.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-gray.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" />
-  <img src="https://img.shields.io/badge/React-gray.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" title="React" />
-  <img src="https://img.shields.io/badge/vite-gray.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite" />
-  <img src="https://img.shields.io/badge/Astro-gray.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" title="Astro" />
+Here are the technologies and tools I use to build my ideas:
 
-<br>
+#### Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-212830.svg?style=for-the-badge&logo=javascript&logoColor=f0f6fc) ![TypeScript](https://img.shields.io/badge/TypeScript-212830.svg?style=for-the-badge&logo=typescript&logoColor=f0f6fc) ![HTML5](https://img.shields.io/badge/html5-212830.svg?style=for-the-badge&logo=html5&logoColor=f0f6fc) ![CSS3](https://img.shields.io/badge/CSS3-212830.svg?style=for-the-badge&logo=CSS&logoColor=f0f6fc) ![Kotlin](https://img.shields.io/badge/Kotlin-212830.svg?style=for-the-badge&logo=kotlin&logoColor=f0f6fc) ![.NET](https://img.shields.io/badge/.NET-212830.svg?style=for-the-badge&logo=dotnet&logoColor=f0f6fc)
 
-  <img src="https://img.shields.io/badge/html5-gray.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-gray.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS3" title="CSS3" />
-  <img src="https://img.shields.io/badge/SASS-gray.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" title="SASS" />
-  <img src="https://img.shields.io/badge/tailwindcss-gray.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="https://img.shields.io/badge/i18n-gray.svg?style=for-the-badge&logo=i18next&logoColor=white" alt="i18n" title="i18n" />
+#### Frontend Frameworks & UI
+![React](https://img.shields.io/badge/React-212830.svg?style=for-the-badge&logo=react&logoColor=f0f6fc) ![Astro](https://img.shields.io/badge/Astro-212830.svg?style=for-the-badge&logo=astro&logoColor=f0f6fc) ![Vite](https://img.shields.io/badge/vite-212830.svg?style=for-the-badge&logo=vite&logoColor=f0f6fc) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-212830.svg?style=for-the-badge&logo=tailwind-css&logoColor=f0f6fc) ![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-212830.svg?style=for-the-badge&logo=lucide&logoColor=f0f6fc) ![i18n](https://img.shields.io/badge/i18n-212830.svg?style=for-the-badge&logo=i18next&logoColor=f0f6fc)
 
-<br>
+#### Backend, Cloud & Database
+![Firebase](https://img.shields.io/badge/Firebase-212830.svg?style=for-the-badge&logo=Firebase&logoColor=f0f6fc) ![Supabase](https://img.shields.io/badge/Supabase-212830.svg?style=for-the-badge&logo=supabase&logoColor=f0f6fc) ![Cloudflare](https://img.shields.io/badge/Cloudflare-212830.svg?style=for-the-badge&logo=cloudflare&logoColor=f0f6fc)
 
-  <img src="https://img.shields.io/badge/Firebase-gray.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" title="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-gray.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" title="Supabase" />
-  <img src="https://img.shields.io/badge/git-gray.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" />
-  <img src="https://img.shields.io/badge/github-gray.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" />
-  <a href="https://app.warp.dev/referral/EP6X5K" target="_blank">
-    <img src="https://img.shields.io/badge/Warp-gray.svg?style=for-the-badge&logo=warp&logoColor=white" alt="Warp" title="Warp" />
-  </a>
-</div>
+#### Environment & Workflow
+![VS Code](https://img.shields.io/badge/VS%20Code-212830.svg?style=for-the-badge&logo=visual-studio-code&logoColor=f0f6fc) ![Android Studio](https://img.shields.io/badge/Android%20Studio-212830.svg?style=for-the-badge&logo=android-studio&logoColor=f0f6fc) [![Warp](https://img.shields.io/badge/Warp-212830.svg?style=for-the-badge&logo=warp&logoColor=f0f6fc)](https://app.warp.dev/referral/6NL5KZ8) ![pnpm](https://img.shields.io/badge/pnpm-212830.svg?style=for-the-badge&logo=pnpm&logoColor=f0f6fc) ![Git](https://img.shields.io/badge/git-212830.svg?style=for-the-badge&logo=git&logoColor=f0f6fc) ![GitHub](https://img.shields.io/badge/github-212830.svg?style=for-the-badge&logo=github&logoColor=f0f6fc)
 
-<h3>📫 Conecta conmigo</h3>
+### 📫 Let's connect
 
-<p>Si tienes alguna idea, proyecto o simplemente quieres saludar, ¡aquí me encuentras!</p>
+If you have an idea, a project, or just want to say hi, you can find me here!
 
-<div>
-  <a href="https://danielvargas.dev/?utm_source=profile_repo&utm_medium=github&utm_campaign=dev_credit" target="_blank">
-    <img src="https://img.shields.io/badge/website-danielvargas.dev-lightgray.svg?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=gray" alt="Website" title="Website" />
-  </a>
-  <a href="mailto:hola@danielvargas.dev">
-    <img src="https://img.shields.io/badge/email-hola@danielvargas.dev-lightgray.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=gray" alt="Email" title="Email" />
-  </a>
+[![Website](https://img.shields.io/badge/website-danielvargas.dev-2C3540.svg?style=for-the-badge&logo=google-chrome&logoColor=f0f6fc&labelColor=212830)](https://danielvargas.dev/?utm_source=profile_repo&utm_medium=github&utm_campaign=dev_credit) [![Email](https://img.shields.io/badge/email-hello@danielvargas.dev-2C3540.svg?style=for-the-badge&logo=gmail&logoColor=f0f6fc&labelColor=212830)](mailto:hello@danielvargas.dev)
 
-  <br>
-
-  <a href="https://github.com/esdanielvargas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gray.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" title="GitHub" />
-  </a>
-  <a href="https://instagram.com/esdanielvargas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" title="Instagram" />
-  </a>
-  <a href="https://x.com/intent/follow?screen_name=esdanielvargas" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-gray.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" title="Twitter" />
-  </a>
-  <a href="https://youtube.com/@esdanielvargas?sub_confirm=1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-gray.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" title="YouTube" />
-  </a>
-  <a href="https://tiktok.com/@esdanielvargas" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-gray.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" title="TikTok" />
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-212830.svg?style=for-the-badge&logo=GitHub&logoColor=f0f6fc)](https://github.com/esdanielvargas) [![Instagram](https://img.shields.io/badge/Instagram-212830.svg?style=for-the-badge&logo=Instagram&logoColor=f0f6fc)](https://instagram.com/esdanielvargas) [![Twitter](https://img.shields.io/badge/twitter-212830.svg?style=for-the-badge&logo=X&logoColor=f0f6fc)](https://x.com/intent/follow?screen_name=esdanielvargas) [![YouTube](https://img.shields.io/badge/YouTube-212830.svg?style=for-the-badge&logo=YouTube&logoColor=f0f6fc)](https://youtube.com/@esdanielvargas?sub_confirm=1) [![TikTok](https://img.shields.io/badge/TikTok-212830.svg?style=for-the-badge&logo=TikTok&logoColor=f0f6fc)](https://tiktok.com/@esdanielvargas)
